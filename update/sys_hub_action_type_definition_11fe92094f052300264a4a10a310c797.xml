@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property.</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property}}","label":"action➛Property","type":"action","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].p}}","label":"step➛Lookup Application Property➛p","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].pr}}","label":"step➛Lookup Application Property➛pr","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].pro}}","label":"step➛Lookup Application Property➛pro","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].prop}}","label":"step➛Lookup Application Property➛prop","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].prope}}","label":"step➛Lookup Application Property➛prope","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].proper}}","label":"step➛Lookup Application Property➛proper","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].propert}}","label":"step➛Lookup Application Property➛propert","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property}}","label":"step➛Lookup Application Property➛property","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_}}","label":"step➛Lookup Application Property➛property_","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_v}}","label":"step➛Lookup Application Property➛property_v","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_va}}","label":"step➛Lookup Application Property➛property_va","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_val}}","label":"step➛Lookup Application Property➛property_val","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_valu}}","label":"step➛Lookup Application Property➛property_valu","type":"step","ref":""},{"name":"{{step[3895d6dc-fc5e-4855-8a3c-77eb7c345744].property_value}}","label":"step➛Lookup Application Property➛property_value","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>de9322c94f052300264a4a10a310c73c</latest_snapshot>
+        <master_snapshot>ee9322c94f052300264a4a10a310c797</master_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 01:47:21</sys_created_on>
+        <sys_id>11fe92094f052300264a4a10a310c797</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_11fe92094f052300264a4a10a310c797</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 02:07:40</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=11fe92094f052300264a4a10a310c797"/>
+    <sys_variable_value action="delete_multiple" query="document_key=11fe92094f052300264a4a10a310c797"/>
+</record_update>
